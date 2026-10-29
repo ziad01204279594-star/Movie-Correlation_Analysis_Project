@@ -1,4 +1,5 @@
 # Movie Correlation Analysis Project
+https://youtu.be/0Ehn3M-PZuw
 
 An end-to-end Exploratory Data Analysis (EDA) project built with Python to investigate the relationships and correlations between various movie attributes (such as budget, gross revenue, company, rating, and genres).
 
